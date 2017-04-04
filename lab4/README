@@ -1,0 +1,7 @@
+I. File List
+------------
+charType.c 		takes two command line arguments giving the input and output file names respectively, then 			   classifies the characters on each line of the input file into the following categories: 
+			alphabetic characters (upper or lower case), numeric characters (digits 0-9), 
+			punctuation characters and whitespace characters in output file
+Makefile		cretates executable CharType / includes a clean utility
+README			This file

@@ -1,0 +1,6 @@
+I. File List
+------------
+Recursion.java					Reverse elements in an array and return index of the min/max 
+						element of an array using recursion
+Makefile					Creates an executable jar file called Recursion
+README 						This file

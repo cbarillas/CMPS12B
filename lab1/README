@@ -1,0 +1,6 @@
+I. File List
+------------
+HelloUser.java    Prints greeting to stdout, then prints out some environment information
+HelloUser2.java   Prints greeting to stdout, then prints out some environment information
+Makefile          creates an executable jar file called Hello that runs main() from HelloUser2.class
+README            This file

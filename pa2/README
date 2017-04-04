@@ -1,0 +1,6 @@
+I. File List
+------------
+Search.java				Uses binary search and merge sort to find a word in a file. Then, 
+					print out what line it was found on.
+Makefile				Creates an executable jar file called Search
+README					This file

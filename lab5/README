@@ -1,0 +1,7 @@
+I. File List
+-------------
+Dictionary.c			Implements a Dictionary ADT based on the singly linked list data structure
+Dictionary.h			The interface for the Dictionary ADT 
+DictionaryClient.c		Test client for Dictionary ADT
+Makefile			creates executable DictionaryClient
+README				This file

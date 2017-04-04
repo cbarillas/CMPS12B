@@ -1,0 +1,8 @@
+I. File List
+-------------
+Dictionary.c				Implements a Dictionary based on the hashtable data structure
+DictionaryTest.c			Test Cleint for Dictionary ADT
+Dictionary.h				Function prototypes	
+DictionaryClient.c			Test Client for Dictionary ADT
+Makefile				Creates executable DictionaryClient
+README					This file

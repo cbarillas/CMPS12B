@@ -1,0 +1,6 @@
+I. File List
+------------
+FileReverse.c		takes two command line arguments, in & out, reads each word in the input file, then prints			   it backwards on a line by itself
+Makefile		creates an executable binary file called FileReverse / includes a clean utility
+README			This file
+

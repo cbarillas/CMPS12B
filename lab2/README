@@ -1,0 +1,5 @@
+I. File List
+------------
+FileReverse.java	takes two command line arguments, in & out, reads eachline of in, parse the tokens, then 			   prints each token backwards to the output file on a line by itself
+Makefile		Creates executable jar file 'FileReverse' thats runs funct main() from FileReverse.class
+README			This file

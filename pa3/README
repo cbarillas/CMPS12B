@@ -1,0 +1,10 @@
+I. File List
+-------------
+Dictionary.java			Dictionary ADT based on the linked list data structure
+DictionaryTest.java		Test client for Dictionary ADT
+DuplicateKeyException.java	Exception class for duplicate keys
+KeyNotFoundException.java	Exception class for key not found 
+DictionaryInterface.java	Interface file for the Dictionary ADT 
+DictionaryClient.java		Test client for Dictionary ADT
+Makefile			Create an executable jar file called DictionaryClient
+README				This file
