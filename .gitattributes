@@ -15,5 +15,4 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-
-static/* linguist-vendored
+*.rb linguist-language=Java
